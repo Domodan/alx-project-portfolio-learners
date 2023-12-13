@@ -13,7 +13,7 @@ The African Student-Centric Virtual Learning Environment aims to address the edu
 1. Clone the repository using this command
 
 ```bash
-git clone git@github.com:Domodan/holicare-front.git
+git clone https://github.com/Domodan/alx-project-portfolio-learners.git
 ```
 
 2. Move to the directory and delete file **package.json** if it exist at the Project root
@@ -39,7 +39,7 @@ yarn build or npm run build
 
 ## Contribute
 
-1. Clone repo and create a new branch: $ git checkout https://github.com/Domodan/alx-project-portfolio-learners -b name_for_new_branch.
+1. Clone repo and create a new branch: $ git checkout https://github.com/Domodan/alx-project-portfolio-learners.git -b name_for_new_branch.
 2. Make changes and test
 3. Submit Pull Request with comprehensive description of changes
 
