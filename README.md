@@ -1,34 +1,53 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Project Name: VLE
 
-## Getting Started
+African Student-Centric Virtual Learning Environment (VLE)
 
-First, run the development server:
+## Introduction
+
+This is a [VLE](https://learners-brightadams.vercel.app/) for all learners, academicians, students, etc. in Africa
+
+The African Student-Centric Virtual Learning Environment aims to address the educational disparities faced by African students by providing a VLE tailored to their unique needs.
+
+## Installation and Usage
+
+1. Clone the repository using this command
+
+```bash
+git clone git@github.com:Domodan/holicare-front.git
+```
+
+2. Move to the directory and delete file **package.json** if it exist at the Project root
+3. Install the dependencies with this command
+
+```bash
+yarn install or npm install
+```
+
+4. Start the HoliCare Frontend Application locally with this command
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+5. Ready for deployment? Create the light-weight build version of the project as below
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+```bash
+yarn build or npm run build
+```
 
-## Learn More
+## Contribute
 
-To learn more about Next.js, take a look at the following resources:
+1. Clone repo and create a new branch: $ git checkout https://github.com/Domodan/alx-project-portfolio-learners -b name_for_new_branch.
+2. Make changes and test
+3. Submit Pull Request with comprehensive description of changes
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Related Projects
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+1. [Udemy](https://www.udemy.com/)
+2. [Coursera](https://www.coursera.org/)
 
-## Deploy on Vercel
+## License
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+The African Student-Centric Virtual Learning Environment is licensed under the terms of the GPL Open Source license and is available for free.
